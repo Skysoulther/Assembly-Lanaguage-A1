@@ -6,7 +6,7 @@ Also, the problems and programs can be used by beginners for learning or by othe
 ## Getting Started - 16 bits
 
 As I have said above, the programs are written in assembly language on 16 and 32 bits. The programs written on 16 bits uses *tasm* for assembling and *turbo debugger* for debugging. This can be found in all directories containing 
-assembly files(extesion *.asm*). You can open them with almost any text editor (e.g. notepad, notepad++, sublime text etc), but in order to run it you need an emulator or a virtual machine which can run 16 bits programs. I used 
+assembly files (extesion *.asm*). You can open them with almost any text editor (e.g. notepad, notepad++, sublime text etc), but in order to run it you need an emulator or a virtual machine which can run 16 bits programs. I used 
 DOSBox for this purpose, but you can use any other software that you consider suitable for this task. You can download DOSBox at [this link](http://www.dosbox.com/download.php?main=1). After this you have to learn how to create a
 virtual disk and mount it on a path from your computer. It is not so difficult and I will show you an example of instructions that you have to write in DOSBox. :)
 
