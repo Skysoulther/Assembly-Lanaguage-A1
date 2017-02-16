@@ -1,0 +1,24 @@
+Instructions on bits
+
+Problems:
+
+5.Let A and B be two given bytes. Obtain the word C as follows:
+- the bits 0-3 from C are equal to the bits 3-6 of B
+- the bits 4-7 from C are equal to 0
+- the bits 8-10 from C are equal to 110
+- the bits 11-15 from C are equal to the bits 0-4 of A
+
+9. Let A be a word and B be a byte. Obtain the byte C as follows:
+- the bits 0-3 from C are equal to the bits 6-9 of A
+- the bits 4-5 from C are equal to 1
+- the bits 6-7 from C are equal to the bits 1-2 of B
+
+10. Replace the bits 0-3 of the byte B with the bits 8-11 of the word A.
+
+11. Let A be a byte and B a word. Obtain the byte C which has the bits 0-3 equal to the bits 2-5 of A and the bits 4-7 equal to the bits 6-9 of B.
+
+Solutions:
+P5.asm
+P9.asm
+P10.asm
+P11.asm

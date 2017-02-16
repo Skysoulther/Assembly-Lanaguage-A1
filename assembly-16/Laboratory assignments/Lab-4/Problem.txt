@@ -1,0 +1,9 @@
+Problem:
+
+10. A string of bytes is given. Obtain the mirror image of the binary representation of this string of bytes. 
+Example: The byte string is given: s db 01011100b, 10001001b, 11100101b 
+The result is the string: d db 10100111b, 10010001b, 00111010b.
+
+Solution:
+
+P10.asm

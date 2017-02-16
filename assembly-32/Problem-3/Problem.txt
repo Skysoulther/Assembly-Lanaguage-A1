@@ -1,0 +1,3 @@
+P5. The 'main' function of the program reads a string ('needle') from the keyboard (scanf/gets/fgets etc) and uses a hard-coded 'haystack' in the data section of the program. The program prints on the screen the beginning index of every occurrences of the 'needle' in the 'haystack'.
+
+Example: For haystack="banana" and needle="ana" our program will print "[1,3]" on the screem.

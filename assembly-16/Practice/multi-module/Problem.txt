@@ -1,0 +1,33 @@
+Multi-module programming
+
+Problems:
+
+1. A number a represented on 16 bits is given. Print on the screen a in base 16, as well as the result of all circular permutations of the digits. 
+
+2. Read from the standard input a string of numbers, given in base 10.
+
+3. Two character strings are given. Compute and print on the screen the result of the concatenation of the second string after the first one, and also of the first string after the second one.
+
+4. A string of numbers is given. Print on the screen the values in base 16.
+
+5. Read the numbers a, b and c and compute and print on the screen a+b-c.
+
+6. Three character strings are given. Compute and print on the screen the result of their concatenation.
+
+7. Three character strings are given. Print on the screen the longest prefix for each of the three pairs of two strings that can be formed.
+
+9. Read from the standard input a string of numbers, given in base 16.
+
+Solutions:
+
+Main module        Secondary module
+--------------------------------------
+P1multi1.asm       P1multi2.asm
+P2mul1.asm         P2mul2.asm
+P3mul1.asm         P3mul2.asm
+P4mul1.asm         P4mul2.asm
+P5mul1.asm         P5mul2.asm
+P6mul1.asm         P6mul2.asm
+P7mul1.asm         P7mul2.asm
+P9mul1.asm         P9mul2.asm
+

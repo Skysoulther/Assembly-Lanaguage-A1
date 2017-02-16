@@ -1,0 +1,17 @@
+Write two programs in assembly language (16 bits) which solves two arithmetic expressions in both unsigned and signed interpretations.
+
+Chosen expressions:
+
+25. (a*a+b)/(b+b)+c
+a-word; b-byte; c-doubleword
+
+26. (a*a+b/c-1)/(b+c)+d
+a-word; b-byte; c-word; d-doubleword
+
+Solutions:
+P25U.asm ; unsigned solution
+P25S.asm ; signed solution
+P26U.asm ; unsigned solution
+P26S.asm ; signed solution
+
+NOTE: TASM is used!

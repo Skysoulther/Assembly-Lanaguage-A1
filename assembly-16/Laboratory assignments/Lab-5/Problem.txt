@@ -1,0 +1,13 @@
+Interrupts
+
+Problems:
+
+9. Print the name and content of the current directory (the name of all files and subdirectories).
+
+15. Read from the standard input (keyboard) two directory names, dir1 and dir2. Create the new directory dir1\dir2.
+
+Solutions:
+
+P9.asm
+P15.asm (A program that uses interrupts)
+P15-2.asm (A program that uses strings)

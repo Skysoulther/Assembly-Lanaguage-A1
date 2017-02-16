@@ -1,0 +1,2 @@
+P3. Compute the sum of the absolute values of the numbers(32 bits representation) from a given string.
+Example: For the string V=[1, -10, 5, 2, 5, 0, -9, 17], the output of the program is 49.

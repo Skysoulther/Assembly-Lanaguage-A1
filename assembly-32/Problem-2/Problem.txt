@@ -1,0 +1,19 @@
+P4. Random Numbers Generator
+
+Write the code for a generator of pseudorandom numbers. The algorithm is expressed as follows: A value called 'seed' is initialised depending on the current hour of the system. Then the 'seed' is used in the following formulas:
+
+	rand=seed[8...23]   ; the bits from position 8 to 23 are extracted from the 'seed'(16 bits)
+	newSeed=rand^2 + K  ; K is a constant value represented on 32 bits
+
+Generate a number respecting the previous formulas every time a character is introduced from the keyboard('ENTER' key is also considered a character). The program stops when the EOF character is introduced (Ctrl^Z).
+
+Output Example:
+=======
+662629896 
+1361279932
+387920785
+369212065
+305615260
+505953817
+^Z
+NOTE: The numbers from the example were printed on the screen after pressing the 'ENTER' key. The program should print a new number everytime 'ENTER' key is pressed. ^^

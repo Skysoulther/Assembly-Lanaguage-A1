@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0003DH 0003EH CODE               
+
+Error: Undefined symbol BUFFER in module P2MUL2.ASM
+Error: Undefined symbol LEN in module P2MUL2.ASM
+Error: Undefined symbol NUMBER in module P2MUL2.ASM
+Program entry point at 0000:0000
+Warning: No stack
+

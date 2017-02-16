@@ -1,0 +1,15 @@
+Multi-module programming
+
+Problem:
+
+15. Read from the standard input several numbers, in base 2. Print on the screen these numbers in base 10.
+
+Solution:
+
+main module:
+
+P15.asm
+
+secondary module:
+
+P15M.asm
